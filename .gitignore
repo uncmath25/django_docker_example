@@ -1,0 +1,4 @@
+server.conf
+src/static
+
+__pycache__
